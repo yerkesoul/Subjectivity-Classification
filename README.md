@@ -12,10 +12,15 @@ The "Models" folder contains the notebooks:
 * RNN (6 labels)
 * BERT+RNN (3 labels)
 * BERT+RNN (6 labels)
+
+
 2.Vader_POS_merged.ipynb  contains models such as:
 * VADER
 * POS tagger
 * VADER+POS tagger
+
+
+
 3.All_4_models_combined.ipynb contains models such as:
 * BERT+RNN+ VADER+POS tagger (3 labels)
 * BERT+RNN+VADER+POS tagger (6 labels)
