@@ -34,5 +34,5 @@ derives BERT embeddings with [CLS] token representing the whole article.The embe
 
 [Data ](https://github.com/yerkesoul/Subjectivity-Classification/tree/main/Data) has the file for the dataset preprocessing, however due to data protection law they can not be shown publickly.
 
-Lastly,there is a [Plots.ipynb|(https://github.com/yerkesoul/Subjectivity-Classification/blob/main/Plots.ipynb) which shows the realation of
+Lastly,there is a [Plots.ipynb](https://github.com/yerkesoul/Subjectivity-Classification/blob/main/Plots.ipynb) which shows the realation of
 argumentative types of sentences and the discourse structure of the articles.
